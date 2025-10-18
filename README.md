@@ -15,8 +15,5 @@ This project addresses the challenge of predicting the properties of complex fue
 
 The dataset consists of component fractions and corresponding measured properties for various fuel blends. Data cleaning and feature preparation are essential steps implemented in the workflow.
 
-## Usage
-
-1. Clone the repository:  
 
 
