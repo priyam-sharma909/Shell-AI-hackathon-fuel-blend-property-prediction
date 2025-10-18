@@ -1,0 +1,1 @@
+This project addresses the challenge of predicting the properties of complex fuel blends containing both sustainable and conventional components. It uses advanced data preprocessing, feature engineering, and machine learning techniques to build robust, high-accuracy models that estimate critical fuel characteristics crucial for sustainable aviation fuels and energy transition.
